@@ -8,6 +8,14 @@ Link para o relatório do projeto: https://www.overleaf.com/read/cwwqpkfjtnrz#6f
 
 Link para o vídeo de apresentação: https://youtu.be/_oJ7eIKL2YA
 
+## Código do projeto
+
+- src/dataset: aplicativo de aquisição do dataset
+- src/jupyter_notebook_processamento.ipynb: Jupyter Notebook com o código de processamento do dataset
+- src/classificador.py: aplicativo de classificação
+
+## Sobre o projeto
+
 O objetivo desta disciplina é apresentar os principais conceitos envolvidos na análise e reconhecimento de formas em problemas de visão computacional. Neste contexto, este projeto tem como objetivo central a implementação de um aplicativo classificador que utiliza técnicas de visão computacional.
 
 A primeira parte do projeto envolve um aplicativo para aquisição de imagens e a formação de um dataset para posteriormente ser usado no aplicativo classificador. O dataset é composto por diferentes imagens, armazenado na plataforma Google Drive, e acompanhado por um arquivo de metadados.
